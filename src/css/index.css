@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .gradient {
+    background-image: linear-gradient(
+      to right top,
+      #f9ebed,
+      #f4e5f0,
+      #e6e1f6,
+      #cee0f9,
+      #b3e0f2
+    );
+  }
+  .text-sh {
+    text-shadow: 1px 1px #fe4902, 1px 1px #fe4902, 2px 2px #fe4902,
+      3px 3px #fe4902, 4px 4px #fe4902, 5px 5px #fe4902;
+  }
+  .custom-container {
+    min-width: 800px;
+  }
+}
