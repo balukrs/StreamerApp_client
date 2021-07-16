@@ -1,6 +1,6 @@
 # Streamer App (Client)
 
-A simple react JS application that portrays the functionalities of a streaming app where you can edit,delete and create streams.
+A simple react JS application that portrays the functions of a streaming app where you can edit,delete and create streams.
 <br/>
 <br/>
 The elements are styled using Tailwind CSS and Material-UI.
